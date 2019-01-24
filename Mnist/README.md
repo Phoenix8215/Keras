@@ -1,1 +1,1 @@
-#*Handwriting Recognition with Multilayer Perceptron*
+# *Handwriting Recognition with Multilayer Perceptron*
